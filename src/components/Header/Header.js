@@ -8,7 +8,7 @@ const Header = () => {
   return (
     <Navbar bg="dark" variant="dark" style={{ height: 70 }}>
       <Container>
-        <Navbar.Brand>
+        <Navbar.Brand >
           <Link to="/">Nurukurthi Vasu</Link>
         </Navbar.Brand>
         <Nav className="head">

@@ -2,7 +2,7 @@ import { BrowserRouter, Route } from "react-router-dom";
 import "./App.css";
 import Certification from "./components/Certifications/Certification";
 import Header from "./components/Header/Header";
-import Slider from "./components/Slider";
+import Slider from "./components/Sliding/Slider";
 
 
 function App() {

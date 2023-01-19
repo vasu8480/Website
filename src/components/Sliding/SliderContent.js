@@ -1,5 +1,6 @@
 import React from "react";
 import image from "./img1.jpeg"
+
 function SliderContent({ activeIndex, sliderImage }) {
   return (
     <section>

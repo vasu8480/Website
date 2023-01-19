@@ -3,6 +3,7 @@
   color: #001577;
 }
 .button-os,button {
+  height:110%;
   border: none;
   border-radius: 15px;
   box-shadow: 0 0 10px #fec7d7;
