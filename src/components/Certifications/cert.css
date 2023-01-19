@@ -60,11 +60,10 @@ body {
 }
 
 .section {
-  flex: 1;
   margin-left: 3%;
 }
 .section1 {
-  flex: 1;
+  
   display: flex;
   flex-direction: column;
   margin-left: 2%;
@@ -72,6 +71,7 @@ body {
 }
 .section,
 .section1 {
+  flex: 1;
   box-shadow: white 0px 10px 29px 10px, rgb(16, 16, 16) 0px 10px 29px 0px;
   text-align: center;
   padding-top: 1rem !important;
@@ -83,7 +83,7 @@ body {
   display: inline-block;
   color: #001577;
   font-size: 19px;
-  border-radius: 16px 0 16px 0;
+  border-radius: 18px 0 18px 0;
   font-weight: 750;
 }
 .section-desc {
