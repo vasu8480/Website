@@ -1,9 +1,8 @@
 import { BrowserRouter, Route } from "react-router-dom";
 import "./App.css";
 import Certification from "./components/Certifications/Certification";
-import Header from "./components/Header";
+import Header from "./components/Header/Header";
 import Slider from "./components/Slider";
-import image from "./components/Certifications/back2.png"
 
 
 function App() {

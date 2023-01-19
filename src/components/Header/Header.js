@@ -1,7 +1,9 @@
 import { Container, Nav, Navbar } from "react-bootstrap";
 import { Link } from "react-router-dom";
-import "./Header.css";
-import myFile from "../vasu_resume.pdf";
+import "./Header.css"
+import myFile from "./vasu_resume.pdf";
+
+
 const Header = () => {
   return (
     <Navbar bg="dark" variant="dark" style={{ height: 70 }}>
