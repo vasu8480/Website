@@ -1,0 +1,14 @@
+.nav {
+  color: #001577;
+}
+
+.but {
+  width: 10%;
+  display: inline-block;
+  box-sizing: border-box;
+  background: #eded42;
+  color: #001577;
+  font-size: 19px;
+  border-radius: 16px 0 16px 0;
+  font-weight: 750;
+}
