@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Website/static/css/main.13c2e2f3.css",
+    "main.js": "/Website/static/js/main.ed4b1e41.js",
+    "static/media/First.jpg": "/Website/static/media/First.26d5a8fcfc5356faca16.jpg",
+    "static/media/Oracle_Cloud_Infrastructure.png": "/Website/static/media/Oracle_Cloud_Infrastructure.8ecdc4efd80048f97c07.png",
+    "static/media/juniper.png": "/Website/static/media/juniper.a35684570ddbb759b8b4.png",
+    "static/media/mta.png": "/Website/static/media/mta.669a3e37e890f699eb13.png",
+    "static/media/AWS.png": "/Website/static/media/AWS.5de5ac5041c48c198d8b.png",
+    "static/media/Second.jpg": "/Website/static/media/Second.5de5ac5041c48c198d8b.jpg",
+    "static/media/Third.jpg": "/Website/static/media/Third.c8fb2e2c7d1709a98969.jpg",
+    "static/media/azure.png": "/Website/static/media/azure.dd49b3c54249c87368c6.png",
+    "static/media/ace.png": "/Website/static/media/ace.93edb9b83069ff0a2ba5.png",
+    "static/media/back2.png": "/Website/static/media/back2.86a56f54221591e914fb.png",
+    "index.html": "/Website/index.html",
+    "main.13c2e2f3.css.map": "/Website/static/css/main.13c2e2f3.css.map",
+    "main.ed4b1e41.js.map": "/Website/static/js/main.ed4b1e41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13c2e2f3.css",
+    "static/js/main.ed4b1e41.js"
+  ]
+}
