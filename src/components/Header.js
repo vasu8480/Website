@@ -1,7 +1,7 @@
 import { Container, Nav, Navbar } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import "./Header.css";
-import myFile from "../vasu_resume.pdf"
+import myFile from "../vasu_resume.pdf";
 const Header = () => {
   return (
     <Navbar bg="dark" variant="dark" style={{ height: 70 }}>
@@ -19,12 +19,10 @@ const Header = () => {
           </Nav.Link>
           <Nav.Link href="https://github.com/vasu8480">Git-Hub</Nav.Link>
           <Nav.Link href="">LeetCode</Nav.Link>
-          <Nav.Link
-            href={myFile}
-            style={{ fontWeight: "bold" }}
-            className="btut"
-          >
-           <button class="button-os"><a href="#"> Download The Resume!</a></button>
+          <Nav.Link href={myFile} style={{ fontWeight: "bold" }}>
+            <button class="button-os">
+              <a> Download The Resume!</a>
+            </button>
           </Nav.Link>
         </Nav>
         <button className="but">
