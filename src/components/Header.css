@@ -1,6 +1,21 @@
+
 .nav {
   color: #001577;
 }
+button {
+  border: none;
+  border-radius: 15px;
+  background-color: #fec7d7;
+  box-shadow: 0 0 10px #fec7d7;
+}
+
+button:hover {
+  top: 30px;
+  box-shadow: 0 0 10px #fec7d7;
+  background-color: #2fd6bd;
+}
+
+
 
 .but {
   width: 10%;
