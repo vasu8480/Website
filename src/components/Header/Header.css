@@ -1,9 +1,13 @@
-
-.nav {
-  color: #001577;
+@media (max-width: 600px) {
+  .navbar-collapse {
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
 }
-.button-os,button {
-  height:110%;
+
+.button-os,
+button {
+  height: 110%;
   border: none;
   border-radius: 15px;
   box-shadow: 0 0 10px #fec7d7;
@@ -16,8 +20,6 @@ button:hover {
   box-shadow: 0 0 10px #fec7d7;
   background-color: #2fd6bd;
 }
-
-
 
 .but {
   width: 10%;
